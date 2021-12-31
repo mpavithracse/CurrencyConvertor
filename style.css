@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-image:url(bgImage.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+input{
+     border-radius: 5px;
+     background: transparent;
+
+}
+
+select{
+    border-style: none;
+    background: transparent;
+}
+
+#workspace{
+    color:rgb(6, 57, 109);
+    position: fixed;
+    left: 10%;
+    top:15%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color:white;
+    padding: 10px 10px 10px 10px;
+}
+
+button{
+    border-radius: 5px;
+    width: 70px;
+    height: 35px;
+    background:midnightblue;
+    color: white;
+}
